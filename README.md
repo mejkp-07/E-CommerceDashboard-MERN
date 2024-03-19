@@ -63,6 +63,8 @@ http://localhost:3000
 If you have any problem in running fronend (npm start) then there must be conflict between the packages you have installed. To resove it you can run:-
 ```bash
 npm audit fix
+```
+```bash
 npm audit fix --force
 ```
 
