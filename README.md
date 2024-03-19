@@ -6,13 +6,13 @@
 
 ## Clone the Project
 ```bash
- git clone https://github.com/mejkp-07/E-CommerceDashboard-MERN.git
+git clone https://github.com/mejkp-07/E-CommerceDashboard-MERN.git
 ```
 ## Go inside this Project
 
 ```bash
- cd E-CommerceDashboard-MERN
- ```
+cd E-CommerceDashboard-MERN
+```
 
  ## Go inside the Backend i.e. server
  ```bash
@@ -21,48 +21,48 @@
  ## Install Packages
 
 ```bash
- npm install
- ```
+npm install
+```
  ## Go inside the Frontend
 
 ```bash
- cd .. 
- ```
- ```bash
- cd Frontend
- ```
+cd .. 
+```
+```bash
+cd Frontend
+```
  ## Install Packages
 
 ```bash
- npm install
- ```
+npm install
+```
 
  ## Run the Node Server
 ```bash
- cd ..
- ```
- ```bash
- cd Backend
- ```
+cd ..
+```
 ```bash
- node index.js
- ```
+cd Backend
+```
+```bash
+node index.js
+```
  ## Run the React Frontend (On another Terminal)
 ```bash
- cd Frontend
- ```
+cd Frontend
+```
 ```bash
- npm start
- ```
+npm start
+```
  ## View Project in Browser
 ```bash
- http://localhost:3000
- ```
+http://localhost:3000
+```
 ### Important Note
 
 If you have any problem in running fronend (npm start) then there must be conflict between the packages you have installed. To resove it you can run:-
 ```bash
- npm audit fix
- npm audit fix --force
- ```
+npm audit fix
+npm audit fix --force
+```
 
